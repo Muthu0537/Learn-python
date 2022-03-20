@@ -4,4 +4,4 @@ count=0
 for each in char :
  if each == each :
   count = count+1
- print(each, int(count))
+ print(each, int(count)) 
